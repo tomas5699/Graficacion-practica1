@@ -74,3 +74,4 @@ public class proceso {
     }
 }
 # Ejecucion 
+![Captura de pantalla (27)](https://user-images.githubusercontent.com/73785441/97923544-c4ef2580-1d23-11eb-943c-a2376ed438fe.png)
