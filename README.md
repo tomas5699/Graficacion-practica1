@@ -78,3 +78,4 @@ public class proceso {
 
 ![Captura de pantalla (28)](https://user-images.githubusercontent.com/73785441/97923583-d7695f00-1d23-11eb-893f-55e163d08819.png)
 
+![Captura de pantalla (29)](https://user-images.githubusercontent.com/73785441/97923634-ec45f280-1d23-11eb-8299-fb37591d7117.png)
